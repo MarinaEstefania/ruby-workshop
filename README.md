@@ -1,24 +1,12 @@
+
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+App made at a Ruby Workshop
 
-Things you may want to cover:
+App Link:
+https://dry-scrubland-74528.herokuapp.com/topics
 
-* Ruby version
 
-* System dependencies
+Documentation link:
+http://es.railsbridge.org/ruby/
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
